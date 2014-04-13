@@ -1,0 +1,1 @@
+1.- mysql_query depreciada en PHP 5.5.0, actualizar después a mysqli query
