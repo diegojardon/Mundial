@@ -1,0 +1,4 @@
+1.- mysql_query depreciada en PHP 5.5.0, actualizar después a mysqli query
+2.- Indexar tabla seleccion y oferta
+3.- Optimizacion BD
+http://boozox.net/mysql/20-consejos-para-mejorar-tu-mysql-que-quizas-no-conocias/

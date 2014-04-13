@@ -24,7 +24,7 @@
 		$resultado["response"] = Constantes::EXITO;
 	}else{
 		$resultado["response"] = Constantes::ERROR;
-		$resultado["response"]["causa"] = ERROR_INSERCION_NO_VALIDA;
+		$resultado["response"]["causa"] = Constantes::ERROR_INSERCION_CANDIDATO_NO_VALIDA;
 	}	
 	echo json_encode($resultado);		
 
