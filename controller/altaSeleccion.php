@@ -1,5 +1,15 @@
 <?php
 
+	/*
+		Desarrolló: Diego Alberto Jardón Ramírez
+		Fecha: 13 - Abril - 2014
+		Versión: 1.0
+		Appsteroid -- Conectrabajo
+	
+		Servicio que inserta la selección realizada por un usuario candidato
+	
+	*/
+
 	require("../model/conexion.php");
 	require("../model/constantes.php");
 	
@@ -9,8 +19,7 @@
 	$estatusSeleccion = isset($_POST["estatusSeleccion"]) ? $_POST["estatusSeleccion"] : "";
 	$fechaIniciaSeleccion = isset($_POST["fechaIniciaSeleccion"]) ? $_POST["fechaIniciaSeleccion"] : "";
 	$fechaTerminaSeleccion = isset($_POST["fechaTerminaSeleccion"]) ? $_POST["fechaTerminaSeleccion"] : "";
-	$nombreEmpresa = 
-	
+		
 	$query = "INSERT INTO seleccion (`idSeleccion`,`idCandidato`,`idOferta`,`estatusSeleccion`,`fechaIniciaSeleccion`,`fechaTerminaSeleccion`) 
 			  VALUES (NULL, '$idCandidato', '$idOferta', '$estatusSeleccion', '$fechaIniciaSeleccion', '$fechaTerminaSeleccion')";
 	

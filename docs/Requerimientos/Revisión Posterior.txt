@@ -2,3 +2,4 @@
 2.- Indexar tabla seleccion y oferta
 3.- Optimizacion BD
 http://boozox.net/mysql/20-consejos-para-mejorar-tu-mysql-que-quizas-no-conocias/
+4.- Indexar fechaCreacionOferta

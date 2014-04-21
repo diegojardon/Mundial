@@ -1,4 +1,14 @@
 <?php
+
+	/*
+		Desarrolló: Diego Alberto Jardón Ramírez
+		Fecha: 13 - Abril - 2014
+		Versión: 1.0
+		Appsteroid -- Conectrabajo
+	
+		Servicio que da de alta a un usuario empresa
+	
+	*/
 	
 	require("../model/conexion.php");
 	require("../model/constantes.php");

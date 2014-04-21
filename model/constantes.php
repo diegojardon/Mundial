@@ -1,4 +1,15 @@
 <?php
+
+	/*
+		Desarrolló: Diego Alberto Jardón Ramírez
+		Fecha: 13 - Abril - 2014
+		Versión: 1.0
+		Appsteroid -- Conectrabajo
+	
+		Constantes para manejo de errores
+	
+	*/
+
 	class Constantes{
 		const EXITO = true;
 		const ERROR = false;
