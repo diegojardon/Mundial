@@ -1,0 +1,24 @@
+1.- mysql_query depreciada en PHP 5.5.0, actualizar después a mysqli
+2.- Indexar tabla seleccion y oferta
+3.- Optimizacion BD: http://boozox.net/mysql/20-consejos-para-mejorar-tu-mysql-que-quizas-no-conocias/
+4.- Indexar fechaCreacionOferta
+5.- https://spring.io/guides/gs/consuming-rest-angularjs/
+6.- http://blog.ijasoneverett.com/2013/03/a-restful-client-with-angular-js/
+7.- http://blog.ijasoneverett.com/2013/02/rest-api-a-simple-php-tutorial/
+8.- https://egghead.io/lessons/angularjs-http
+9.- Clase Javascript para constantes
+10.- Clase PHP/Javascript para mensajes usuario
+11.- CORS: http://en.wikipedia.org/wiki/Same-origin_policy
+12.- Acomodar carpetas dentro de app (carpeta app o www).
+13.- Para probar local, es en la carpeta app de Conectrabajo. Para subirlo al app es en la carpeta www
+
+
+
+
+
+url admin
+
+www.appsteroid.com:2082
+
+usuario: appstero
+contraseña: 4ppst3r01d
